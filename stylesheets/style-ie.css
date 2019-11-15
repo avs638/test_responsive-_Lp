@@ -1,0 +1,26 @@
+/* lte IE 9 style*/
+.wp-caption {
+	-pie-background: rgb(255, 255, 255) none scroll ;
+	position: relative;
+}
+
+a.button {
+	-pie-background: rgb(224, 224, 224) url("../images/check02.png") no-repeat scroll 0px 3px ;
+	border-radius: 100px;
+	position: relative;
+}
+
+a.button:active {
+	position: relative;
+}
+
+a.button {
+	position: relative;
+}
+
+.content {
+	-pie-background: transparent none no-repeat fixed center top ;
+	position: relative;
+}
+
+@media only screen and (min-width : 769px) { }@media only screen and (min-width : 1024px) { }
